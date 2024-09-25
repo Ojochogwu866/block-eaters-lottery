@@ -4,7 +4,7 @@ A blockchain-based application featuring smart contracts for lottery and voting 
 
 ## Overview
 
-Block Eaters 1 demonstrates the implementation of decentralized lottery and voting mechanisms using blockchain technology. It consists of smart contracts deployed on a blockchain network and a user-friendly interface for interaction.
+This repositoty demonstrates the implementation of decentralized lottery and voting mechanisms using blockchain technology. It consists of smart contracts deployed on a blockchain network and a user-friendly interface for interaction.
 
 ## Features
 
