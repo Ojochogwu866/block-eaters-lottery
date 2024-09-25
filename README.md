@@ -1,4 +1,4 @@
-# Block Eaters 1
+# Block Eaters Lottery
 
 A blockchain-based application featuring smart contracts for lottery and voting systems, with an accompanying user interface.
 
